@@ -1,7 +1,9 @@
 # Nut Jump
 Play as two adorable squirrel brothers and catch as many nuts as possible!
+
+<img src="https://i.imgur.com/H9GeLOW.png" width=500px height=391px>
+
 (Original project made in 2016)
-<img src="https://i.imgur.com/H9GeLOW.png">
 
 ## What it does
 Nut Jump is an arcade game based on Neopets' "Hasee Bounce". Play as two adorable squirrel brothers and catch as many nuts as you can within the time limit!
